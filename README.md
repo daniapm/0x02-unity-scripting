@@ -38,12 +38,7 @@
 #### Follow me 💬
 
 | Authors | GitHub | Twitter |
-| :---: | :---: | :---: | :---: |
-| Dania Puertas | [daniapm](https://github.com/daniapm) | [@puertas_dany](https://twitter.com/puertas_dany?t=rOYOt1OdRwMaYQoUQJ32eg&s=08)
-
-### License
-*`0x02. Unity - Scripting` is open source and therefore free to download and use without permission.*
-
-<a href="url"><img src="https://www.holbertonschool.com/holberton-logo.png" align="middle" width="100" height="30"></a>
+| :---: | :---: | :---: |
+| Dania Puertas | [daniapm](https://github.com/daniapm) | [@puertas_dany](https://twitter.com/puertas_dany?t=rOYOt1OdRwMaYQoUQJ32eg&s=08) |
 
 ##### Holberton School – Advanced Program – AR/VR

@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement; //Load Scenes 
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -35,6 +35,15 @@ public class PlayerController : MonoBehaviour
     }
 
     // Reload the scene when Health player is over
+    void Update()
+    {
+        if (health == 0)
+        {
+            Debug.Log("Game Over!");
+            // Loads the Scene by its name or index in Build Settings
+            SceneManager.LoadScene(0, LoadSceneMode.Single);
+        }
+    }
 
 
     void OnTriggerEnter(Collider other)
